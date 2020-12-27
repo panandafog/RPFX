@@ -20,7 +20,7 @@ In addition, it will also show file icons for the following file types:
 RPFX is designed to be fairly modular, so you can tweak its code to use your own Discord application if you want to add more file icons (or any other functionality).
 
 ## Dependencies
-RPFX uses [my fork](https://github.com/PKBeam/SwordRPC) of [Azoy's SwordRPC](https://github.com/Azoy/SwordRPC).
+RPFX uses [fork](https://github.com/PKBeam/SwordRPC) of [Azoy's SwordRPC](https://github.com/Azoy/SwordRPC).
 
 ## System Requirements
 - macOS Catalina (10.15) 
