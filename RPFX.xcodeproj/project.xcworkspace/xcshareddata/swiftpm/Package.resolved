@@ -9,6 +9,15 @@
           "revision": "26c8f4e4e3000421a0c97aaf0c7b5e9aa5475222",
           "version": "0.12.94"
         }
+      },
+      {
+        "package": "SwordRPC",
+        "repositoryURL": "https://github.com/PKBeam/SwordRPC",
+        "state": {
+          "branch": null,
+          "revision": "97535a22bdca462f8b91e8a7349391fb2344d757",
+          "version": "0.2.2"
+        }
       }
     ]
   },
